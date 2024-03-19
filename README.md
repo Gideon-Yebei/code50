@@ -3,7 +3,7 @@
 <p align="center">
 
 >
-> ## A repository dedicated to my solutions of the weekly problem sets in the Harvard CS50 courses.
+> A repository dedicated to my solutions of the weekly problem sets in the Harvard CS50 courses.
 >
 
 <p>
