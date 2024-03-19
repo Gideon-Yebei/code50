@@ -1,6 +1,5 @@
-# code50
->
-> ## A repository dedicated to my solutions of the weekly problem sets in the Harvard CS50 Introduction to Computer Science course
+<h1 align="center">This is CS50 - 2024<h1>
+<h2 align="center">CS50's Introduction to Computer Science.
 
 ### CS50 Library for C
 
